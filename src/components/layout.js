@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, with love from san francisco, ca
+          © {new Date().getFullYear()}, with ❤ from san francisco, ca
         </footer>
       </div>
     </>
