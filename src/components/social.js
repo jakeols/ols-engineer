@@ -41,7 +41,8 @@ const Social = () => {
                 <Img style={{ width: '30px' }} fluid={data.instagramImage.childImageSharp.fluid} />
             </a>
             <p>
-                or running on <a style={{ textDecoration: 'none', color: 'rebeccapurple' }} href="https://www.strava.com/athletes/31979134">strava</a>
+                running on <a style={{ textDecoration: 'none', color: 'rebeccapurple' }} href="https://www.strava.com/athletes/31979134">strava</a>.
+                writings on <a style={{ textDecoration: 'none', color: 'rebeccapurple' }} href="https://medium.com/@jakeols">medium</a>.
             </p>
 
         </div >
