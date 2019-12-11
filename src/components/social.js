@@ -34,10 +34,10 @@ const Social = () => {
             <a href="https://github.com/jakeols">
                 <Img style={{ width: '30px' }} fluid={data.githubImage.childImageSharp.fluid} />
             </a>
-            <a href="https://github.com/jakeols">
+            <a href="https://twitter.com/jakeols">
                 <Img style={{ width: '30px' }} fluid={data.twitterImage.childImageSharp.fluid} />
             </a>
-            <a href="https://github.com/jakeols" style={{ paddingRight: '5px' }}>
+            <a href="https://instagram.com/jakeols" style={{ paddingRight: '5px' }}>
                 <Img style={{ width: '30px' }} fluid={data.instagramImage.childImageSharp.fluid} />
             </a>
             <p>
