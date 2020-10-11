@@ -32,7 +32,7 @@ const BooksPage = () => (
             <li>the lost girls of paris - pam jenoff</li>
             <li>the saint of wolves and butchers - alex grecian</li>
             <li>the girl of the train - paula hawkins</li>
-            <li>joyland - stephan king</li>
+            <li>joyland - stephen king</li>
             <li>the hours - michael cunningham</li>
         </ul>
     </Layout>
