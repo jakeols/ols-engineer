@@ -8,8 +8,8 @@ import Social from "../components/social"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>welcome</h1>
-    <p>you can find me here &darr;</p>
+    <h1>hey,</h1>
+    <p>i'm jake &mdash; a front-end developer in san francisco, ca. you can find me here &darr; </p>
     <Social />
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />

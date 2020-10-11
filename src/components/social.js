@@ -43,6 +43,7 @@ const Social = () => {
             <p>
                 running on <a style={{ textDecoration: 'none', color: 'rebeccapurple' }} href="https://www.strava.com/athletes/31979134">strava</a>.
                 writings on <a style={{ textDecoration: 'none', color: 'rebeccapurple' }} href="https://medium.com/@jakeols">medium</a>.
+                reading list <a style={{textDecoration: 'none', color: 'rebeccapurple'}} href="/books">here</a>.
             </p>
 
         </div >
