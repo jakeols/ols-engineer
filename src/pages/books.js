@@ -11,14 +11,14 @@ const BooksPage = () => (
         <h2>2020</h2>
         <ul>
             <li>annhilation (southern reach trilogy) book #1</li>
-            <li>kllman creek - rachel caine</li>
+            <li>killman creek - rachel caine</li>
             <li>fishnet - kristin innes</li>
             <li>authority (southern reach trilogy) book #2</li>
             <li>acceptance (southern reach trilogy) book #3</li>
             <li>1st to die - james patterson</li>
             <li>first cut - judy melinek & tj mitchell</li>
             <li>fool - christopher moore</li>
-            <li>running for my life - lopez lamong</li>
+            <li>running for my life - lopez lomong</li>
             <li>the words of my father - yousef bashir</li>
             <li>the boy on the wooden box - leon leyson</li>
             <li>the 19th wife - david ebershoff</li>
@@ -34,6 +34,9 @@ const BooksPage = () => (
             <li>the girl of the train - paula hawkins</li>
             <li>joyland - stephen king</li>
             <li>the hours - michael cunningham</li>
+            <li>the martyred - richard e. kim</li>
+            <li>homeland - cory cotorow</li>
+            <li>little fires everywhere - celeste ng</li>
         </ul>
     </Layout>
 )
