@@ -8,6 +8,10 @@ const BooksPage = () => (
         <SEO title="Books" />
         <h1>books</h1>
         <p>i've been meaning to keep a reading log, so here it is:</p>
+        <h2>2021</h2>
+        <ul>
+            <li>mr. mercedes - stephen king</li>
+        </ul>
         <h2>2020</h2>
         <ul>
             <li>annhilation (southern reach trilogy) book #1</li>
@@ -37,6 +41,9 @@ const BooksPage = () => (
             <li>the martyred - richard e. kim</li>
             <li>homeland - cory cotorow</li>
             <li>little fires everywhere - celeste ng</li>
+            <li>noir - christopher moore</li>
+            <li>the uncommon appeal of clouds - alexander mccall smith</li>
+            <li>the mars room - rachel kushner</li>
         </ul>
     </Layout>
 )
