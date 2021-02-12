@@ -12,6 +12,8 @@ const BooksPage = () => (
         <ul>
             <li>mr. mercedes - stephen king</li>
             <li>end of watch - stephen king</li>
+            <li>the couple next door - shari lapena</li>
+            <li>the brief and wondrous life of oscar wao - junot díaz</li>
         </ul>
         <h2>2020</h2>
         <ul>
