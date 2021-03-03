@@ -16,6 +16,7 @@ const BooksPage = () => (
             <li>the brief and wondrous life of oscar wao - junot díaz</li>
             <li>decoded - mai jia</li>
             <li>mexican gothic - silvia moreno-garcia</li>
+            <li>a thousand splendid suns - khaled hosseini</li>
         </ul>
         <h2>2020</h2>
         <ul>
