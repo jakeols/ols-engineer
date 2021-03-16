@@ -17,6 +17,8 @@ const BooksPage = () => (
             <li>decoded - mai jia</li>
             <li>mexican gothic - silvia moreno-garcia</li>
             <li>a thousand splendid suns - khaled hosseini</li>
+            <li>the song of achilles - madeline miller</li>
+            <li>codex - lev grossman</li>
         </ul>
         <h2>2020</h2>
         <ul>
