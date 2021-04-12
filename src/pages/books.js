@@ -19,6 +19,9 @@ const BooksPage = () => (
             <li>a thousand splendid suns - khaled hosseini</li>
             <li>the song of achilles - madeline miller</li>
             <li>codex - lev grossman</li>
+            <li>the house on the cerulean sea - tj klune</li>
+            <li>assassins apprentice - robin hobb</li>
+            <li>ryal assassin - robin hobb</li>
         </ul>
         <h2>2020</h2>
         <ul>
