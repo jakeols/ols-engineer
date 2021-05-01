@@ -22,6 +22,11 @@ const BooksPage = () => (
             <li>the house on the cerulean sea - tj klune</li>
             <li>assassins apprentice - robin hobb</li>
             <li>ryal assassin - robin hobb</li>
+            <li>the midnight library - matt haig</li>
+            <li>the guest list - lucy foley</li>
+            <li>the changeling - victor lavalle</li>
+            <li>shadow and bone - leigh bardugo</li>
+            <li>siege and storm - leigh bardugo</li>
         </ul>
         <h2>2020</h2>
         <ul>
