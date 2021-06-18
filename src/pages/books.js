@@ -27,6 +27,12 @@ const BooksPage = () => (
             <li>the changeling - victor lavalle</li>
             <li>shadow and bone - leigh bardugo</li>
             <li>siege and storm - leigh bardugo</li>
+            <li>ruin and rising - leigh bardugo</li>
+            <li>six of crows - leigh bardugo</li>
+            <li>crooked kingdom - leigh bardugo <i>(sensing a pattern?)</i></li>
+            <li>the vanishing half - brit bennett</li>
+            <li>ariadne - jennifer saint</li>
+            <li>vicious - ve schwab</li>
         </ul>
         <h2>2020</h2>
         <ul>
