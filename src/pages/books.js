@@ -33,6 +33,15 @@ const BooksPage = () => (
             <li>the vanishing half - brit bennett</li>
             <li>ariadne - jennifer saint</li>
             <li>vicious - ve schwab</li>
+            <li>vengeful - ve schwab</li>
+            <li>the gilded wolves - roshani choski</li>
+            <li>assassins quest - robin hobb</li>
+            <li>verity - colleen hoover</li>
+            <li>56 days - catherine ryan howard</li>
+            <li>a darker shade of magic - ve schwab</li>
+            <li>a gathering of shadows - ve schwab</li>
+            <li>a conjuring of light - ve schwab</li>
+            <li>american dirt - jeanine cummins</li>
         </ul>
         <h2>2020</h2>
         <ul>
