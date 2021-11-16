@@ -42,6 +42,16 @@ const BooksPage = () => (
             <li>a gathering of shadows - ve schwab</li>
             <li>a conjuring of light - ve schwab</li>
             <li>american dirt - jeanine cummins</li>
+            <li>the night circus - erin morgenstern</li>
+            <li>a gentleman in moscow - amor towles</li>
+            <li>the silvered serpents - roshani choski</li>
+            <li>anxious people - fredrik backman</li>
+            <li>ace of spaces - faridah àbíké-íyímídé</li>
+            <li>ship of magic - robin hobb</li>
+            <li>convenience store woman - sayaka murata</li>
+            <li>mad ship - robin hobb</li>
+            <li>the girl who could move shit with her mind - jackson ford</li>
+            <li>the bronzed beasts - roshani choski</li>
         </ul>
         <h2>2020</h2>
         <ul>
