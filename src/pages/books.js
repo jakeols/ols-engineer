@@ -52,6 +52,7 @@ const BooksPage = () => (
             <li>mad ship - robin hobb</li>
             <li>the girl who could move shit with her mind - jackson ford</li>
             <li>the bronzed beasts - roshani choski</li>
+            <li>ship of destiny - robin hobb</li>
         </ul>
         <h2>2020</h2>
         <ul>
