@@ -11,6 +11,11 @@ const BooksPage = () => (
         <h2>2022</h2>
         <ul>
             <li>this is ear hustle - nigel poor & earlonne woods</li>
+            <li>jade city - fonda lee</li>
+            <li>random shit flying through the air - jackson ford</li>
+            <li>recursion - blacke crouch</li>
+            <li>eye of the shit storm - jackson ford</li>
+            <li>jade war - fonda lee</li>
         </ul>
         <h2>2021</h2>
         <ul>
