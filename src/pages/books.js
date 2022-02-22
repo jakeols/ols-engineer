@@ -16,6 +16,10 @@ const BooksPage = () => (
             <li>recursion - blacke crouch</li>
             <li>eye of the shit storm - jackson ford</li>
             <li>jade war - fonda lee</li>
+            <li>blacktop wasteland - sa crosby</li>
+            <li>rules of civility - amor towles</li>
+            <li>the maid - nita prose</li>
+            <li>death on the nile - agatha christie</li>
         </ul>
         <h2>2021</h2>
         <ul>
