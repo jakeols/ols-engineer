@@ -20,6 +20,22 @@ const BooksPage = () => (
             <li>rules of civility - amor towles</li>
             <li>the maid - nita prose</li>
             <li>death on the nile - agatha christie</li>
+            <li>razorblade tears - sa crosby</li>
+            <li>the turn of the key - ruth ware</li>
+            <li>the nickel boys - colson whitehead</li>
+            <li>fools errand - robin hobb</li>
+            <li>golden fool - robin hobb</li>
+            <li>fools fate - robin hobb</li>
+            <li>poppy wars - r.f. kuang</li>
+            <li>senlin ascends - josiah blancroft</li>
+            <li>the dragon republic - r.f. kuang</li>
+            <li>the burning god - r.f. kuang</li>
+            <li>jade legacy - fonda lee</li>
+            <li>the thursday murder club - richard osman</li>
+            <li>the way of kings - brandon sanderson</li>
+            <li>ready player one - ernest cline</li>
+            <li>words of radiance - brandon sanderson</li>
+            <li>how high we go in the dark - sequoia nagamatsu</li>
         </ul>
         <h2>2021</h2>
         <ul>
