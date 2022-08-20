@@ -36,6 +36,12 @@ const BooksPage = () => (
             <li>ready player one - ernest cline</li>
             <li>words of radiance - brandon sanderson</li>
             <li>how high we go in the dark - sequoia nagamatsu</li>
+            <li>oathbringer - brandon sanderson</li>
+            <li>the nix - nathan hill</li>
+            <li>rythm of war - brandon sanderson</li>
+            <li>remarkably bright creatures - shelby van pelt</li>
+            <li>scythe - neal shusterman</li>
+            <li>thunderhead - neal shusterman</li>
         </ul>
         <h2>2021</h2>
         <ul>
