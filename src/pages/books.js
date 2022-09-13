@@ -42,6 +42,9 @@ const BooksPage = () => (
             <li>remarkably bright creatures - shelby van pelt</li>
             <li>scythe - neal shusterman</li>
             <li>thunderhead - neal shusterman</li>
+            <li>the toll - neal shusterman</li>
+            <li>the searcher - tana french</li>
+            <li>a little life - hanya yanagihara</li>
         </ul>
         <h2>2021</h2>
         <ul>
