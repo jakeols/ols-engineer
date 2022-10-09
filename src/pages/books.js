@@ -45,6 +45,9 @@ const BooksPage = () => (
             <li>the toll - neal shusterman</li>
             <li>the searcher - tana french</li>
             <li>a little life - hanya yanagihara</li>
+            <li>the man who died twice - richard osman</li>
+            <li>venemous lumpsucker - ned beauman</li>
+            <li>the bullet that missed - richard osman</li>
         </ul>
         <h2>2021</h2>
         <ul>
