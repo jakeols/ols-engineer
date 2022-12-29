@@ -48,6 +48,18 @@ const BooksPage = () => (
             <li>the man who died twice - richard osman</li>
             <li>venemous lumpsucker - ned beauman</li>
             <li>the bullet that missed - richard osman</li>
+            <li>babel - r.f. kuang</li>
+            <li>the sun down motel - simone st. james</li>
+            <li>lessons in chemistry - bonnie garmus</li>
+            <li>a natural history of dragons - marie brennan</li>
+            <li>sign here - claudia lux</li>
+            <li>dragon keeper - robin hobb</li>
+            <li>dragon haven - robin hobb</li>
+            <li>my lovel wife - samantha downing</li>
+            <li>legends & lattes - travis baldree</li>
+            <li>tomorrow and tomorrow and tomorrow - gabrielle zevin</li>
+            <li>the city we became - nk jemisin</li>
+            <li>the night swim - megan goldin</li>
         </ul>
         <h2>2021</h2>
         <ul>
