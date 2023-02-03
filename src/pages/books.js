@@ -8,6 +8,12 @@ const BooksPage = () => (
         <SEO title="Books" />
         <h1>books</h1>
         <p>i've been meaning to keep a reading log, so here it is:</p>
+        <h2>2023</h2>
+        <ul>
+            <li>dear edward - ann napolitano</li>
+            <li>a psalm for the wild-built - becky chambers</li>
+            <li>the tin drum - günter grass</li>
+        </ul>
         <h2>2022</h2>
         <ul>
             <li>this is ear hustle - nigel poor & earlonne woods</li>
