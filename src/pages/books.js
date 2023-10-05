@@ -38,6 +38,27 @@ const BooksPage = () => (
       <li>the prison healer - lynette noni </li>
       <li> the gilded cage - lynette noni</li>
       <li>the blood traitor - lynette noni</li>
+      <li>the wolf den - elodie harper </li>
+      <li>the collected regrets of clover - mikki brammer </li>
+      <li>the wishing game- meg shaffer</li>
+      <li>ship breaker - paola bacigalupi</li>
+      <li>the ferryman - justin cronin</li>
+      <li>everybody in this room will someday be dead - emily austin</li>
+      <li>the house with the golden door - elodie harper </li>
+      <li>all the sinners bleed - sa cosby</li>
+      <li>for your own good - samantha downing </li>
+      <li>invisible girl - lisa jewell </li>
+      <li>the night watchman - louise erdrich</li>
+      <li>my darkest prayer - S.A. cosby </li>
+      <li>fourth wing- rebecca yarros </li>
+      <li>chain gang all stars - nana kwame adjei-brenyah </li>
+      <li>city of brass - sa chakraborty</li>
+      <li>kingdom of copper - sa chakraborty</li>
+      <li>the empire of gold - sa chakraborty </li>
+      <li>then she was gone - lisa jewell</li>
+      <li>scarlet- genevieve cogman</li>
+      <li>a treacherous curse - deanna raybourn </li>
+      <li>nightcrawling - leila mottley </li>
     </ul>
     <h2>2022</h2>
     <ul>
