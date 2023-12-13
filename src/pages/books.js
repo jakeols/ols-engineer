@@ -70,6 +70,8 @@ const BooksPage = () => (
       <li>the shadow of what was lost - james islington</li>
       <li>an echo of things to come - james islington</li>
       <li>the light of all that falls - james islington</li>
+      <li>yumi and the nightmare painter - brandon sanderson</li>
+      <li>shark heart - emily habeck</li>
     </ul>
     <h2>2022</h2>
     <ul>
