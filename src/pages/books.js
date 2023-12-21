@@ -72,6 +72,8 @@ const BooksPage = () => (
       <li>the light of all that falls - james islington</li>
       <li>yumi and the nightmare painter - brandon sanderson</li>
       <li>shark heart - emily habeck</li>
+      <li>the housemaid - freida mcfadden</li>
+      <li>dead of winter - darcy coates</li>
     </ul>
     <h2>2022</h2>
     <ul>
