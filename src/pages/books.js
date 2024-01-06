@@ -9,6 +9,11 @@ const BooksPage = () => (
     <h1>books</h1>
     <p>i've been meaning to keep a reading log, so here it is:</p>
     <p><i>(i read like most people watch tv)</i></p>
+    <h2>2024</h2>
+    <ul>
+      <li>thread needle - cari thomas</li>
+      <li>the villa - rachel hawkins</li>
+    </ul>
     <h2>2023</h2>
     <ul>
       <li>dear edward - ann napolitano</li>
@@ -74,6 +79,8 @@ const BooksPage = () => (
       <li>shark heart - emily habeck</li>
       <li>the housemaid - freida mcfadden</li>
       <li>dead of winter - darcy coates</li>
+      <li>demon copperhead - barbera kingsolver</li>
+      <li>deacon king kong - james mcbride</li>
     </ul>
     <h2>2022</h2>
     <ul>
