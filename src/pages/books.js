@@ -13,6 +13,43 @@ const BooksPage = () => (
     <ul>
       <li>thread needle - cari thomas</li>
       <li>the villa - rachel hawkins</li>
+      <li>ninth house - leigh bardugo</li>
+      <li>my best friends exorcism - grady hendrix</li>
+      <li>the enigma of room 622</li>
+      <li>the temple of fortuna - elodie harper</li>
+      <li>atlas compiled - olivie blake</li>
+      <li>the titan cup - robert jackson bennett</li>
+      <li>young mungo - douglas stuart</li>
+      <li>monstrilio - gerardo samano cordova</li>
+      <li>the sunlit man - brandon sanderson</li>
+      <li>the familiar - leigh bardugo</li>
+      <li>the queen of the tearling - erika johansen</li>
+      <li>the invasion of the tearling - erika johansen</li>
+      <li>fate of the tearing - erika johansen</li>
+      <li>red rising - pierce brown</li>
+      <li>golden son - pierce brown</li>
+      <li>morning star - pierce brown</li>
+      <li>annie bot - sierra greer</li>
+      <li>the silent patient - amex michaelides</li>
+      <li>tender is the flesh - augustina bazterrica</li>
+      <li>the will of the many - james islington</li>
+      <li>fools assassin - robin hobb</li>
+      <li>fools quest - robin hobb</li>
+      <li>assassins fate - robin hobb</li>
+      <li>body harvest</li>
+      <li>something to live for - richard roper</li>
+      <li>the minuscule mansion - myra malone</li>
+      <li>birnam wood - eleanor catton</li>
+      <li>ordinary monsters - jm miro</li>
+      <li>bringer of dust - jm miro</li>
+      <li>several people are typing - calvin kasulke</li>
+      <li>like mother, like daughter - kimberly mccreight</li>
+      <li>margo's got money troubles - rufi thorpe</li>
+      <li>the book that won't burn - mark lawrence</li>
+      <li>the book that broke the world - mark lawrence</li>
+      <li>i hope this finds you well - natalie sue</li>
+      <li>the wedding people - alison espach</li>
+      <li>trust - hernan diaz</li>
     </ul>
     <h2>2023</h2>
     <ul>
