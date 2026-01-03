@@ -9,6 +9,34 @@ const BooksPage = () => (
     <h1>books</h1>
     <p>i've been meaning to keep a reading log, so here it is:</p>
     <p><i>(i read like most people watch tv)</i></p>
+    <h2>2025</h2>
+    <ul>
+      <li>wind and truth - brandon sanderson</li>
+      <li>onyx storm - rebecca yarros</li>
+      <li>the haar - david sodergren</li>
+      <li>blue sisters - coco mellors</li>
+      <li>elantris - brandon sanderson</li>
+      <li>the fragile threads of power - ve schwab</li>
+      <li>clockwork angel - cassandra clare</li>
+      <li>clockwork prince - cassandra clare</li>
+      <li>clockwork princess - cassandra clare</li>
+      <li>the bright sword - lev grossman</li>
+      <li>on earth we're briefly gorgeous - ocean vuong</li>
+      <li>shards of earth - adrian tchaikovsky</li>
+      <li>lords of uncreation - adrian tchaikovsky</li>
+      <li>the windup girl - paolo bacigalupi</li>
+      <li>the blade itself - joe abercrombie</li>
+      <li>the book that held her heart - mark lawrence</li>
+      <li>rage of dragons - evan winter</li>
+      <li>before they are hanged - joe abercrombie</li>
+      <li>last argument of kings - joe abercrombie</li>
+      <li>emperor of gladness - ocean vuong</li>
+      <li>the fires of vengeance - evan winter</li>
+      <li>the mountain in the sea - ray nayler</li>
+      <li>katabasis - rf kuang</li>
+      <li>the strength of the few - james islington</li>
+      <li>the last vigilant - mark a latham</li>
+    </ul>
     <h2>2024</h2>
     <ul>
       <li>thread needle - cari thomas</li>
