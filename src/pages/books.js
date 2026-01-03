@@ -9,10 +9,75 @@ const BooksPage = () => (
     <h1>books</h1>
     <p>i've been meaning to keep a reading log, so here it is:</p>
     <p><i>(i read like most people watch tv)</i></p>
+    <h2>2025</h2>
+    <ul>
+      <li>wind and truth - brandon sanderson</li>
+      <li>onyx storm - rebecca yarros</li>
+      <li>the haar - david sodergren</li>
+      <li>blue sisters - coco mellors</li>
+      <li>elantris - brandon sanderson</li>
+      <li>the fragile threads of power - ve schwab</li>
+      <li>clockwork angel - cassandra clare</li>
+      <li>clockwork prince - cassandra clare</li>
+      <li>clockwork princess - cassandra clare</li>
+      <li>the bright sword - lev grossman</li>
+      <li>on earth we're briefly gorgeous - ocean vuong</li>
+      <li>shards of earth - adrian tchaikovsky</li>
+      <li>lords of uncreation - adrian tchaikovsky</li>
+      <li>the windup girl - paolo bacigalupi</li>
+      <li>the blade itself - joe abercrombie</li>
+      <li>the book that held her heart - mark lawrence</li>
+      <li>rage of dragons - evan winter</li>
+      <li>before they are hanged - joe abercrombie</li>
+      <li>last argument of kings - joe abercrombie</li>
+      <li>emperor of gladness - ocean vuong</li>
+      <li>the fires of vengeance - evan winter</li>
+      <li>the mountain in the sea - ray nayler</li>
+      <li>katabasis - rf kuang</li>
+      <li>the strength of the few - james islington</li>
+      <li>the last vigilant - mark a latham</li>
+    </ul>
     <h2>2024</h2>
     <ul>
       <li>thread needle - cari thomas</li>
       <li>the villa - rachel hawkins</li>
+      <li>ninth house - leigh bardugo</li>
+      <li>my best friends exorcism - grady hendrix</li>
+      <li>the enigma of room 622</li>
+      <li>the temple of fortuna - elodie harper</li>
+      <li>atlas compiled - olivie blake</li>
+      <li>the titan cup - robert jackson bennett</li>
+      <li>young mungo - douglas stuart</li>
+      <li>monstrilio - gerardo samano cordova</li>
+      <li>the sunlit man - brandon sanderson</li>
+      <li>the familiar - leigh bardugo</li>
+      <li>the queen of the tearling - erika johansen</li>
+      <li>the invasion of the tearling - erika johansen</li>
+      <li>fate of the tearing - erika johansen</li>
+      <li>red rising - pierce brown</li>
+      <li>golden son - pierce brown</li>
+      <li>morning star - pierce brown</li>
+      <li>annie bot - sierra greer</li>
+      <li>the silent patient - amex michaelides</li>
+      <li>tender is the flesh - augustina bazterrica</li>
+      <li>the will of the many - james islington</li>
+      <li>fools assassin - robin hobb</li>
+      <li>fools quest - robin hobb</li>
+      <li>assassins fate - robin hobb</li>
+      <li>body harvest</li>
+      <li>something to live for - richard roper</li>
+      <li>the minuscule mansion - myra malone</li>
+      <li>birnam wood - eleanor catton</li>
+      <li>ordinary monsters - jm miro</li>
+      <li>bringer of dust - jm miro</li>
+      <li>several people are typing - calvin kasulke</li>
+      <li>like mother, like daughter - kimberly mccreight</li>
+      <li>margo's got money troubles - rufi thorpe</li>
+      <li>the book that won't burn - mark lawrence</li>
+      <li>the book that broke the world - mark lawrence</li>
+      <li>i hope this finds you well - natalie sue</li>
+      <li>the wedding people - alison espach</li>
+      <li>trust - hernan diaz</li>
     </ul>
     <h2>2023</h2>
     <ul>
