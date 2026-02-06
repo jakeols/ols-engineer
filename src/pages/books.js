@@ -9,6 +9,13 @@ const BooksPage = () => (
     <h1>books</h1>
     <p>i've been meaning to keep a reading log, so here it is:</p>
     <p><i>(i read like most people watch tv)</i></p>
+    <h2>2026</h2>
+    <ul>
+      <li>malice - john gwynne</li>
+      <li>valor - john gwynne</li>
+      <li>ruin - john gwynne</li>
+      <li>wraith - john gwynne</li>
+    </ul>
     <h2>2025</h2>
     <ul>
       <li>wind and truth - brandon sanderson</li>
