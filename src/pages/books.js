@@ -18,11 +18,11 @@ const BooksPage = () => (
       <li>iron gold - pierce brown</li>
       <li>foundryside (trilogy) - robert jackson bennett</li>
       <li>wild dark shore - charlotte mcconaghy</li>
-      <li>last summer at the golden hotel</li>
-      <li>the stardust thief</li>
-      <li>love galaxy</li>
-      <li>ash fire king</li>
-      <li>the library of amorlin</li>
+      <li>last summer at the golden hotel - elyssa friedland</li>
+      <li>the stardust thief - chelsea abdullah</li>
+      <li>love galaxy - sierra branham</li>
+      <li>the ashfire king - chelsea abdullah</li>
+      <li>the library of amorlin - kalyn josephson</li>
     </ul>
     <h2>2025</h2>
     <ul>
