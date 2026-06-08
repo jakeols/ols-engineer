@@ -7,7 +7,6 @@ import Social from "../components/social"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
     <h1>hey,</h1>
     <p>i'm jake &mdash; a software engineer in san francisco, ca. you can find me online &darr; </p>
     <Social />
@@ -16,5 +15,7 @@ const IndexPage = () => (
     </div>
   </Layout>
 )
+
+export const Head = () => <SEO title="Home" />
 
 export default IndexPage
