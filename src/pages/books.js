@@ -5,7 +5,6 @@ import SEO from "../components/seo"
 
 const BooksPage = () => (
   <Layout>
-    <SEO title="Books" />
     <h1>books</h1>
     <p>i've been meaning to keep a reading log, so here it is:</p>
     <p><i>(i read like most people watch tv)</i></p>
@@ -308,5 +307,7 @@ const BooksPage = () => (
     </ul>
   </Layout>
 )
+
+export const Head = () => <SEO title="Books" />
 
 export default BooksPage
