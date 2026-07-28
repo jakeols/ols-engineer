@@ -5,6 +5,14 @@ import SEO from "../components/seo"
 
 const BooksPage = () => (
   <Layout>
+    <p>
+      <a
+        href="/"
+        style={{ textDecoration: "underline", color: "inherit" }}
+      >
+        ←
+      </a>
+    </p>
     <h1>books</h1>
     <p>i've been meaning to keep a reading log, so here it is:</p>
     <p><i>(i read like most people watch tv)</i></p>
