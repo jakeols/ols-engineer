@@ -30,6 +30,11 @@ const BooksPage = () => (
       <li>love galaxy - sierra branham</li>
       <li>the ashfire king - chelsea abdullah</li>
       <li>the library of amorlin - kalyn josephson</li>
+      <li>shadow of the gods - john gwynne</li>
+      <li>five - ilona bannister</li>
+      <li>hunger of the gods - john gwynne</li>
+      <li>bloodsworn book 3</li>
+      <li>abyss - nicholas binge</li>
     </ul>
     <h2>2025</h2>
     <ul>
