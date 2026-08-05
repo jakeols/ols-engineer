@@ -35,6 +35,8 @@ const BooksPage = () => (
       <li>hunger of the gods - john gwynne</li>
       <li>bloodsworn book 3</li>
       <li>abyss - nicholas binge</li>
+      <li>hyperion - dan simmons</li>
+      <li>ai engineering - chip huyen</li>
     </ul>
     <h2>2025</h2>
     <ul>
