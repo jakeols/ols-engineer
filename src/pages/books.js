@@ -37,6 +37,7 @@ const BooksPage = () => (
       <li>abyss - nicholas binge</li>
       <li>hyperion - dan simmons</li>
       <li>ai engineering - chip huyen</li>
+      <li>a trade of blood - robert jackson bennett</li>
     </ul>
     <h2>2025</h2>
     <ul>
