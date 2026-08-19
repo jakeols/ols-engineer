@@ -24,7 +24,6 @@ const BooksPage = () => (
       <li>wraith - john gwynne</li>
       <li>iron gold - pierce brown</li>
       <li>foundryside (trilogy) - robert jackson bennett</li>
-      <li>a trade of blood - robert jackson bennett</li>
       <li>wild dark shore - charlotte mcconaghy</li>
       <li>last summer at the golden hotel - elyssa friedland</li>
       <li>the stardust thief - chelsea abdullah</li>
@@ -38,6 +37,7 @@ const BooksPage = () => (
       <li>abyss - nicholas binge</li>
       <li>hyperion - dan simmons</li>
       <li>ai engineering - chip huyen</li>
+      <li>a trade of blood - robert jackson bennett</li>
     </ul>
     <h2>2025</h2>
     <ul>
