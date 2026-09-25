@@ -41,6 +41,8 @@ const BooksPage = () => (
       <li>the deep sky - yume kitasei</li>
       <li>the pillars of the earth - ken follett</li>
       <li>station eleven - emily st. john mandel</li>
+      <li>stardust grail - yume kitasei</li>
+      <li>scion - james islington</li>
     </ul>
     <h2>2025</h2>
     <ul>
