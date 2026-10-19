@@ -43,6 +43,8 @@ const BooksPage = () => (
       <li>station eleven - emily st. john mandel</li>
       <li>stardust grail - yume kitasei</li>
       <li>scion - james islington</li>
+      <li>saltcrop - yume kitasei</li>
+      <li>light from uncommon stars - ryka aoki</li>
     </ul>
     <h2>2025</h2>
     <ul>
