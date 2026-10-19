@@ -37,6 +37,8 @@ const BooksPage = () => (
       <li>abyss - nicholas binge</li>
       <li>hyperion - dan simmons</li>
       <li>ai engineering - chip huyen</li>
+      <li>saltcrop - yume kitasei</li>
+      <li>light from uncommon stars - ryka aoki</li>
     </ul>
     <h2>2025</h2>
     <ul>
