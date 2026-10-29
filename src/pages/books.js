@@ -45,6 +45,7 @@ const BooksPage = () => (
       <li>scion - james islington</li>
       <li>saltcrop - yume kitasei</li>
       <li>light from uncommon stars - ryka aoki</li>
+      <li>a thousand ships - natalie haynes</li>
     </ul>
     <h2>2025</h2>
     <ul>
